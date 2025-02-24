@@ -19,7 +19,7 @@ Welcome to the **Foodle App**, a simple and intuitive web application that lets 
 ![Recipe List](https://github.com/HarshMall28/recipe/blob/main/assets/app_ss.png?raw=true)  
 
 ### **📋 Recipe Details Page**  
-![Recipe Details](https://your-screenshot-url.com/recipe-details.png)  
+![Recipe Details](https://github.com/HarshMall28/recipe/blob/main/assets/recipe_ss.png?raw=true)  
 
 ---
 
